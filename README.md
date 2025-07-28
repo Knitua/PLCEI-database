@@ -1,5 +1,6 @@
 # Harnessing AI for Science–Policy Interface: Plastic LCA Case Study
 
+![Overview Figure](./framework.png)
 This repository contains all source code and scripts supporting the research article:
 
 **"Harnessing artificial intelligence-driven approach for science-policy interface: A case study on plastic life-cycle environmental impacts"**
